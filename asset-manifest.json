@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/TeslaReactApp/static/css/main.0a3fd40f.chunk.css",
+    "main.js": "/TeslaReactApp/static/js/main.a4e89556.chunk.js",
+    "main.js.map": "/TeslaReactApp/static/js/main.a4e89556.chunk.js.map",
+    "runtime-main.js": "/TeslaReactApp/static/js/runtime-main.505ddd83.js",
+    "runtime-main.js.map": "/TeslaReactApp/static/js/runtime-main.505ddd83.js.map",
+    "static/js/2.af4f6f80.chunk.js": "/TeslaReactApp/static/js/2.af4f6f80.chunk.js",
+    "static/js/2.af4f6f80.chunk.js.map": "/TeslaReactApp/static/js/2.af4f6f80.chunk.js.map",
+    "static/js/3.949c3d0f.chunk.js": "/TeslaReactApp/static/js/3.949c3d0f.chunk.js",
+    "static/js/3.949c3d0f.chunk.js.map": "/TeslaReactApp/static/js/3.949c3d0f.chunk.js.map",
+    "index.html": "/TeslaReactApp/index.html",
+    "static/css/main.0a3fd40f.chunk.css.map": "/TeslaReactApp/static/css/main.0a3fd40f.chunk.css.map",
+    "static/js/2.af4f6f80.chunk.js.LICENSE.txt": "/TeslaReactApp/static/js/2.af4f6f80.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.505ddd83.js",
+    "static/js/2.af4f6f80.chunk.js",
+    "static/css/main.0a3fd40f.chunk.css",
+    "static/js/main.a4e89556.chunk.js"
+  ]
+}
